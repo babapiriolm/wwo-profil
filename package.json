@@ -1,0 +1,12 @@
+{
+  "name": "wwo-profil-sorgu",
+  "version": "1.0.0",
+  "description": "Wolvesville Profil Sorgulama Sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
